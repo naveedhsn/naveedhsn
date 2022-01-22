@@ -15,6 +15,16 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 ## Programming Language: 
 Java, Python, C, JavaScript, HTML, CSS
+
+## Tools & IDE: 
+Cypress, Postman, Jmeter, VS Code, Eclipse, Code Blocks, Google Colab
+
+## Operating System: 
+Windows, Linux 
+
+## Concepts: 
+**OOP**, **SDLC**, **STLC**, **JS DOM** 
+
 <!--
 **naveedhsn/naveedhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
