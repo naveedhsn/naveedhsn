@@ -11,7 +11,7 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :email: How to reach me: You can sen me email **naveedhossaiin@gmail.com**
 
-Naveed Hossain[https://linktr.ee/naveedhsn]
+:mailbox: Check my profiles: [Naveed Hossain](https://linktr.ee/naveedhsn)
 
 
 <!--
