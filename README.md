@@ -7,7 +7,7 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 🔭 I’m currently working on Automation Testing
 
-🌱 I’m currently learning **Cypress** for web automation
+:dart: I’m currently learning **Cypress** for web automation
 
 📫 How to reach me: You can sen me email **naveedhossaiin@gmail.com**
 
