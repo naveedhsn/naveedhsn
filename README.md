@@ -28,6 +28,7 @@ Windows, Linux
 ### :books: Concepts: 
 **OOP**, **SDLC**, **STLC**, **JS DOM** 
 
+
 <!--
 **naveedhsn/naveedhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
