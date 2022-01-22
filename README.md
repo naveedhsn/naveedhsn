@@ -9,7 +9,7 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :dart: I’m currently learning **Cypress** for web automation
 
-:email: How to reach me: You can sen me email **naveedhossaiin@gmail.com**
+:email: How to reach me: You can send me email **naveedhossaiin@gmail.com**
 
 :mailbox: Check my profiles: **[Naveed Hossain](https://linktr.ee/naveedhsn)**
 
