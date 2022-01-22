@@ -19,6 +19,9 @@ Java, Python, C, JavaScript, HTML, CSS
 ### Tools & IDE: 
 Cypress, Postman, Jmeter, VS Code, Eclipse, Code Blocks, Google Colab
 
+### Agile Methodology & Project Management: 
+Jira
+
 ### Operating System: 
 Windows, Linux 
 
