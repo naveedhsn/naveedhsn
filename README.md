@@ -19,7 +19,11 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :closed_book: **Programming Language:** Java, Python, C, JavaScript, HTML, CSS
 
-:green_book: **Tools & IDE:** Cypress, Postman, Jmeter, GitHub, VS Code, Eclipse, Code Blocks, Google Colab
+:green_book: **Tools & Framework:** Cypress, Postman, Jmeter, GitHub
+
+:notebook_with_decorative_cover: **IDE:** VS Code, Eclipse, Code Blocks, Google Colab
+
+:notebook: **Database:** MySql
 
 :orange_book: **Agile Methodology & Project Management:** Jira
 
