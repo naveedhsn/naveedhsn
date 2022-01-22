@@ -13,8 +13,7 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :mailbox: Check my profiles: **[Naveed Hossain](https://linktr.ee/naveedhsn)**
 
-### Manual Testing: 
-Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+:blue_book: Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
 :closed_book: **Programming Language:** Java, Python, C, JavaScript, HTML, CSS
 
