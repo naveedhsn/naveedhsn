@@ -13,19 +13,19 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :mailbox: Check my profiles: **[Naveed Hossain](https://linktr.ee/naveedhsn)**
 
-### Programming Language: 
+### :closed_book: Programming Language: 
 Java, Python, C, JavaScript, HTML, CSS
 
-### Tools & IDE: 
+### :green_book: Tools & IDE: 
 Cypress, Postman, Jmeter, VS Code, Eclipse, Code Blocks, Google Colab
 
-### Agile Methodology & Project Management: 
+### :orange_book: Agile Methodology & Project Management: 
 Jira
 
-### Operating System: 
+### :ledger: Operating System: 
 Windows, Linux 
 
-### Concepts: 
+### :books: Concepts: 
 **OOP**, **SDLC**, **STLC**, **JS DOM** 
 
 <!--
