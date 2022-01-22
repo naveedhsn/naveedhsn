@@ -1,12 +1,14 @@
 ### Hi there 👋 
 Assalamu Alaikum!
 
-This is # Naveed Hossain.
+This is Naveed Hossain.
 
 I am a Software QA Engineer with strong engineering professional with a Bachelor of Science degree in Computer Science and Engineering. I'm a quick learner. Skilled in Software QA, Manual Testing, Performance Testing using JMeter, Postman API and still learning new tools & technologies.
 
 🔭 I’m currently working on ... Automation Testing
+
 🌱 I’m currently learning ... Cypress for web automation
+
 📫 How to reach me: ... You can sen me email naveedhossaiin@gmail.com
 
 
