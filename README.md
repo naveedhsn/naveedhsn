@@ -13,7 +13,8 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :mailbox: Check my profiles: **[Naveed Hossain](https://linktr.ee/naveedhsn)**
 
-### :closed_book: Programming Language: **Java, Python, C, JavaScript, HTML, CSS**
+### :closed_book: Programming Language: 
+Java, Python, C, JavaScript, HTML, CSS
 
 ### :green_book: Tools & IDE: 
 Cypress, Postman, Jmeter, VS Code, Eclipse, Code Blocks, Google Colab
