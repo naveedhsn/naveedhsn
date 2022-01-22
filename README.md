@@ -13,7 +13,8 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :mailbox: Check my profiles: **[Naveed Hossain](https://linktr.ee/naveedhsn)**
 
-
+# Programming Language: 
+[] Java, Python, C, JavaScript, HTML, CSS
 <!--
 **naveedhsn/naveedhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
