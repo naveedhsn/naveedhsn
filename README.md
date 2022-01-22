@@ -26,7 +26,7 @@ Jira
 Windows, Linux 
 
 ### :books: Concepts: 
-**OOP**, **SDLC**, **STLC**, **JS DOM** 
+OOP, SDLC, STLC, JS DOM
 
 
 <!--
