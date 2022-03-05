@@ -7,7 +7,7 @@ I am a **Software QA Engineer** with strong engineering professional with a Bach
 
 :computer: I’m currently working as an **SQA Engineer** (Intern) at a software company.
 
-:dart: I’m currently learning **Cypress** for web automation
+:dart: I’m currently learning **Appium** for mobile app automation
 
 :email: How to reach me: You can send me email **naveedhossaiin@gmail.com**
 
